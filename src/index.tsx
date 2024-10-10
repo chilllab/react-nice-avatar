@@ -126,4 +126,5 @@ export default class ReactNiceAvatar extends Component<NiceAvatarProps> {
   }
 }
 
+export { Face, Hair, Hat, Ear, Eyebrow, Eye, Glasses, Nose, Mouth, Shirt };
 export { genConfig } from "./utils";
